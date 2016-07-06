@@ -20,6 +20,7 @@ jQuery(function ($) {
       playing = false,
       mediaPath = 'bts.mp3',
     //extension = '',
+      //same as data variable in controller
       tracks = [{
         "track": 1,
         "name": "All This Is - Joe L.'s Studio",
